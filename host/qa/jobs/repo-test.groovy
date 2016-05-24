@@ -1,0 +1,2 @@
+mavenJob('repo-test') {
+}
