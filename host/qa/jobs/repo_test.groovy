@@ -1,2 +1,2 @@
-mavenJob('repo-test') {
+mavenJob('sweet') {
 }
